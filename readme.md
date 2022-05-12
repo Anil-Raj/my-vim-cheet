@@ -18,3 +18,15 @@ w(ord)
 p(aragraph)
 j(next line)
 
+
+
+
+iw.  inner word
+ip.   inner paragraph
+i{.   inner block {}
+i".   inner quotes
+ias   inner a sentance
+
+
+
+
