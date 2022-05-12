@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=wlR5gYd6um0
+https://www.youtube.com/watch?v=wlR5gYd6um0 \n
 https://ctoomey.com/mastering-the-vim-language-slides.pdf
 
 
